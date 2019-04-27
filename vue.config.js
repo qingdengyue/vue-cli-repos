@@ -62,7 +62,7 @@ module.exports = {
     richText: {
       entry: './src/newby-shows-modules/rich-text-page/main-rich-text.js',
       filename: 'mobile-rich-text-page.html',
-      template: 'src/newby-shows-modules/rich-text-page/mobile-rich-text-page.html'
+      template: 'public/mobile-rich-text-page.html'
     }
   }
 }
